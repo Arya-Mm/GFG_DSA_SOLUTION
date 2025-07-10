@@ -1,6 +1,15 @@
-# GFG_DSA_SOLUTION
-📚 A comprehensive collection of my GeeksforGeeks DSA problem solutions and daily coding challenge answers. Includes well-structured, commented code covering topics like arrays, strings, trees, graphs, dynamic programming, and more.
-🔁 Updated regularly with daily practice problems
-💡 Covers beginner to advanced-level DSA topics
-🛠️ Solutions in Python/C++/Java (mention your language)
-📌 Helpful for interview prep and mastering problem-solving
+# GFG DSA & Daily Coding Challenge Solutions 🚀
+
+Welcome to my repository where I upload solutions to problems from **GeeksforGeeks (GFG)**. This includes both **topic-wise DSA problems** and **daily coding challenges** that are commonly asked in interviews and competitive programming.
+
+---
+
+## 📌 What You'll Find Here
+
+- ✅ Daily Practice Questions with Solutions  
+- 📚 Topic-wise DSA problems (Arrays, Strings, Trees, Graphs, DP, etc.)  
+- 🧠 Well-commented code for better understanding  
+- 💡 Optimized solutions in Python/C++  
+- 📂 Organized folders by topic and date  
+
+---
